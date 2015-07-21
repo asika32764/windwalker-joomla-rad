@@ -1,17 +1,17 @@
 <?php
 /**
- * Part of joomla336 project. 
+ * Part of Windwalker project.
  *
  * @copyright  Copyright (C) 2014 {ORGANIZATION}. All rights reserved.
  * @license    GNU General Public License version 2 or later;
  */
 
-namespace Windwalker\Joomla\DataMapper;
+namespace Windwalker\DataMapper;
 
 use Joomla\DI\Container;
 use Windwalker\DataMapper\Adapter\DatabaseAdapter;
 use Windwalker\DI\ServiceProvider;
-use Windwalker\Joomla\Database\JoomlaAdapter;
+use Windwalker\DataMapper\Adapter\JoomlaAdapter;
 
 /**
  * The DataMapperProvider class.

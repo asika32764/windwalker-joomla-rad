@@ -12,6 +12,8 @@ use JDatabaseDriver as DatabaseDriver;
 
 /**
  * Some Useful function for database operation.
+ *
+ * @deprecated  3.0
  */
 class DatabaseCommand
 {

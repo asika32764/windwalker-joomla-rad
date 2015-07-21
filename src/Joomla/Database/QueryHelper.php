@@ -15,6 +15,8 @@ use Windwalker\Compare\Compare;
 
 /**
  * Class QueryHelper
+ *
+ * @deprecated  3.0  Use Windwalker\Model\Helper\QueryHelper instead.
  */
 class QueryHelper
 {

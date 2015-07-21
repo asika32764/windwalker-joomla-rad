@@ -13,6 +13,8 @@ use Windwalker\DI\Container;
 
 /**
  * Class DatabaseFactory
+ *
+ * @deprecated  3.0
  */
 abstract class DatabaseFactory
 {

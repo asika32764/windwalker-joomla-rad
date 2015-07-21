@@ -10,6 +10,8 @@ namespace Windwalker\Joomla\DataMapper;
 
 /**
  * Main Database Mapper class.
+ *
+ * @deprecated  3.0  Use \Windwalker\DataMapper\DataMapper instead.
  */
 class DataMapper extends \Windwalker\DataMapper\DataMapper
 {

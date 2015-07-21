@@ -6,9 +6,10 @@
  * @license    GNU General Public License version 2 or later;
  */
 
-namespace Windwalker\Joomla\Database;
+namespace Windwalker\DataMapper\Adapter;
 
 use Windwalker\Data\DataSet;
+use Windwalker\Joomla\Database\QueryHelper;
 
 /**
  * The DatabaseAdapter class.

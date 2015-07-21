@@ -10,7 +10,7 @@ namespace Windwalker;
 
 use Windwalker\DI\Container;
 use Windwalker\Filesystem\Path\PathCollection;
-use Windwalker\Joomla\DataMapper\DataMapperProvider;
+use Windwalker\DataMapper\DataMapperProvider;
 use Windwalker\Provider\SystemProvider;
 
 /**
